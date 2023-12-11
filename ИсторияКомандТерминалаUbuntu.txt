@@ -1,0 +1,89 @@
+1  cat ?
+
+    2  cat /?
+
+    3  cat --help
+
+    4  cat > pet_animal.txt
+
+    5  cat < pet_animal.txt
+
+    6  cat > pet-animal.txt
+
+    7  cat < pet_animal.txt
+
+    8  cat < pet-animal.txt
+
+    9  cat > pack-animal.txt
+
+   10  cat pet-animal.txt pack-animal.txt > all-animal.txt
+
+   11  cat < all-animal.txt
+
+   12  mkdir txt_file_animals
+
+   13  cd txt_file_animals/
+
+   14  mv /home/gbvsg/all-animal.txt all-animal.txt
+
+   15  ls
+
+   16  cd..
+
+   17  cd ..
+
+   18  apt-add-repository https://dev.mysql.com/downloads/repo/apt
+
+   19  apt-add-repository ppa:myql/stable
+
+   20  wget https://dev.mysql.com/downloads/repo/apt
+
+   21  apt update
+
+   22  wget https://dev.mysql.com/get/mysql-apt-congig_0.8.28-1_all.deb
+
+   23  wget https://dev.mysql.com/get/mysql-apt-config_0.8.28-1_all.deb
+
+   24  apt update
+
+   25  apt-get update
+
+   26  cd ..
+
+   27  ls
+
+   28  cd home
+
+   29  ls
+
+   30  cd gbvsg/
+
+   31  ls
+
+   32  cd Downloads/
+
+   33  ls
+
+   34  cd..
+
+   35  cd ..
+
+   36  ls
+
+   37  dpkg -i mysql-apt-config_0.8.28-1_all.deb 
+
+   38  apt-get updatte
+
+   39  apt-get update
+
+   40  apt-get install mysql-server
+
+   41  dpkg -r mysql-server
+
+   42  apt autoremove
+
+   43  ls
+
+   44  apt install mysql-apt-config_0.8.28-1_all.deb
+
+   45  history
